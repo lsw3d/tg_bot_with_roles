@@ -11,7 +11,7 @@
 
 `/get_planned_newsletter` - получить количество запланированных сообщений (админ)
 
-`/send_newsletter <letter>` - отправить письмо (модератора)
+`/send_newsletter <letter>` - отправить письмо (модератор)
 
 
 ### TODO
